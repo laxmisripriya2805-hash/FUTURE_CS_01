@@ -1,4 +1,4 @@
-# Scope and Methodology — Future Interns Task 1
+# Scope and Methodology 
 
 ## 1. Assessment Overview
 
